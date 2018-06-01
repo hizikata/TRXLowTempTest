@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRXLowTempTest", "TRXLowTempTest\TRXLowTempTest.csproj", "{12D41E5C-EB33-4225-BB29-52B85726765D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I2CLibrary", "I2CLibrary\I2CLibrary.csproj", "{59B944C2-5960-40DF-89AD-05ADB9032507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISALibrary", "VISALibrary\VISALibrary.csproj", "{FABD997F-94AC-463E-9CD1-5FA37CA9E6A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{12D41E5C-EB33-4225-BB29-52B85726765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D41E5C-EB33-4225-BB29-52B85726765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D41E5C-EB33-4225-BB29-52B85726765D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B944C2-5960-40DF-89AD-05ADB9032507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B944C2-5960-40DF-89AD-05ADB9032507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B944C2-5960-40DF-89AD-05ADB9032507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B944C2-5960-40DF-89AD-05ADB9032507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABD997F-94AC-463E-9CD1-5FA37CA9E6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABD997F-94AC-463E-9CD1-5FA37CA9E6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABD997F-94AC-463E-9CD1-5FA37CA9E6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABD997F-94AC-463E-9CD1-5FA37CA9E6A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
